@@ -21,7 +21,7 @@ public class MainApp {
       userService.add(new User("Anna", "Anovna", "anna@mail.ru"));
       userService.add(new User("Ivan", "Ivanov", "ivan@mail.ru"));
       userService.add(new User("Elena", "Elenovna", "elena@mail.ru"));
-      userService.add(new User("Petr", "Petrov", "petr@mail.ru"));
+      userService.add(new User("Petrovvvv", "Petrov", "petr@mail.ru"));
 
 
       List<User> users = userService.listUsers();
